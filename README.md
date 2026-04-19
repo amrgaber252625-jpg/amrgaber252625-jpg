@@ -1,47 +1,66 @@
-# 👋 Hi, I'm Amr Gaber
+# 👋 Hi, I'm Amr Mohamed Gaber
 
 🚀 DevOps & Cloud Enthusiast | Communication & Electronics Engineer  
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate engineer focused on DevOps, Cloud Computing, and Infrastructure Automation.  
-I enjoy building scalable systems and automating workflows.
+Communication & Electronics Engineer with a strong foundation in networking, Linux systems, and IT infrastructure.  
+Passionate about building, managing, and troubleshooting scalable systems.  
+
+🎯 Currently seeking a role as:
+- Network Engineer  
+- System Administrator  
+- DevOps Engineer (Junior)  
 
 ---
 
 ## 🛠️ Tech Stack
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Networking](https://img.shields.io/badge/Networking-grey?style=for-the-badge)
+
+### 🔹 Networking
+- TCP/IP, Routing & Switching  
+- CCNA | CCNP (Core & ENARSI - In Progress)
+
+### 🔹 Systems & Cloud
+- Linux (RedHat)  
+- Windows Server 2019  
+- AWS Cloud Practitioner  
+- Microsoft Azure (AZ-900)
+
+### 🔹 DevOps Tools
+- Docker (Basics)  
+- Git & GitHub  
+- CI/CD (GitHub Actions - Basics)
+
+### 🔹 Programming
+- Python  
+- C++  
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Dockerized App
-- Built multi-container app using Docker & docker-compose  
-- Optimized container performance  
-
-👉 https://github.com/yourusername/docker-project
+### 🔹 5G Resource Allocation Optimization
+- AI-assisted system to enhance QoS in 5G networks  
+- Improved resource allocation efficiency  
 
 ---
 
-### 🔹 Linux Automation
-- Automated system tasks using Bash scripts  
-- Reduced manual operations  
-
-👉 https://github.com/yourusername/linux-automation
+### 🔹 Li-Fi Data Transmission
+- Transmitted Unicode data using light signals  
+- Implemented using Arduino  
 
 ---
 
-### 🔹 CI/CD Pipeline
-- Built pipeline using GitHub Actions  
-- Automated build & deployment  
+### 🔹 Energy Harvesting System
+- Designed system to convert microwave signals into electrical energy  
+- Frequency range: 2.4GHz – 12GHz  
 
-👉 https://github.com/yourusername/cicd-project
+---
+
+### 🔹 DR. BAND (Wearable Device)
+- Monitors bloodstream using laser sensor  
+- Built working prototype  
 
 ---
 
@@ -51,11 +70,27 @@ I enjoy building scalable systems and automating workflows.
 ---
 
 ## 📜 Certifications
-- CCNA (In Progress)
-- Oracle Cloud Foundations
+- CCNA 200-301  
+- AWS Cloud Practitioner  
+- Azure Fundamentals (AZ-900)  
+- MCSA Windows Server 2019  
+- NTI Core Data Network Program  
+
+---
+
+## 🎓 Education
+B.Sc. in Communication Engineering  
+MTI University | GPA: 3.84 (Excellent)
+
+---
+
+## 🌍 Languages
+- Arabic: Native  
+- English: Proficient  
 
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://linkedin.com/in/yourlink
-- Email: your@email.com
+📧 Email: amrgaber252625@gmail.com  
+📱 Phone: +201117650281  
+🔗 LinkedIn: https://linkedin.com/in/amr-mohamed-gaber-76a885215
