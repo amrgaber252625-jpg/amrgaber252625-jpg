@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Amr Gaber
 
-<!--
-**amrgaber252625-jpg/amrgaber252625-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Communication & Electronics Engineer interested in DevOps & Cloud Computing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Networking (CCNA Basics)
+- Linux
+- Docker
+- Kubernetes (Basics)
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 🔹 Docker Project
+- Built multi-container app using Docker
+- Used docker-compose
+- [Project Link](https://github.com/yourusername/project)
+
+### 🔹 Linux Automation
+- Automated tasks using Bash scripting
+
+---
+
+## 📜 Certifications
+- CCNA 
+- OCI Foundations
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [https://linkedin.com/in/yourlink](https://www.linkedin.com/in/amr-mohamed-gaber-76a885215/)
+- Email: amrgaber252625@email.com
